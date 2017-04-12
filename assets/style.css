@@ -7,14 +7,15 @@
 	margin:0 auto;
 	margin-top: 8%;
 }
+a:visited {
+	color: blue;
+}
 
 a:hover {
 	color: red;
 }
 
-a:visited {
-	color: blue;
-}
+
 
 #content {
   position: relative;
