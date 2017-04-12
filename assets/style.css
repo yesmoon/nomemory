@@ -12,6 +12,10 @@ a:hover {
 	color: red;
 }
 
+a:visited {
+	color: blue;
+}
+
 #content {
   position: relative;
 }
